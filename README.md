@@ -32,5 +32,4 @@
 </div>
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=lucianomoliterno&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-![Snake animation](https://raw.githubusercontent.com/lucianomoliterno/lucianomoliterno/output/github-contribution-grid-snake-dark.svg)
 
