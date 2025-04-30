@@ -4,15 +4,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianomoliterno&label=Profile%20views&color=8f050c&style=plastic" alt="lucianomoliterno" /> </p>
 
-- 🔭 I’m currently working on **Inventory Systems**
+- 💻 I like programming and computers.
+ 
+- ☕ I love coffee and video games.
 
-- 🌱 I’m currently learning **Data Science**
+- 🎹 I’m a Gamer and I’m currently studying to be a professional Gamer.
 
-- 💬 Ask me about **Database, POO**
+- 🔭 I’m currently working on **my Portafolio**.
 
-- 📫 How to reach me **luciano.moliterno.97@gmail.com**
+- 👨‍💻 All of my projects are available at (My portafolio).
 
-- ⚡ Fun fact **I am Funny**
+- 📫 How to reach me: **luciano.moliterno.97@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
