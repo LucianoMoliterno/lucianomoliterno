@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luciano-moliterno-gonzalez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciano-moliterno-gonzalez" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/srG9tq25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/srG9tq25" height="30" width="40" /></a>
+<a href="https://discord.gg/.zentx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pablo.vieyra#2235" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
