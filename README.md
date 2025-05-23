@@ -8,7 +8,7 @@
  
 - ☕ I love coffee and video games.
 
-- 🎮 I’m a Gamer and I’m currently studying to be a professional Gamer.
+- 🎮 I’m a Gamer
 
 - 🔭 I’m currently working on **my Portafolio**.
 
